@@ -1,0 +1,6 @@
+a = 32;
+b = 212;
+F = linspace(a,b);
+F
+
+# lispace = (a-b)/num.of.points
