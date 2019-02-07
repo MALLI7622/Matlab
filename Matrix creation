@@ -1,0 +1,7 @@
+ I = eye(10);
+ # eye is default matlab function used to create Identity matrix of 10X10
+ a = zeros(10);
+ # zeros is default matlab function used to create matrix of 10X10 all containg zeros
+ # if we want only 10X3 matrix use
+ a  = zeros(10,3);
+ 
